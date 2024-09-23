@@ -9,8 +9,8 @@ You can also search for Artists and the songs that they brought out.
 Good luck with this program. I used it for my Music Video hobby and it 
 turned out to be very handy for me.
 
-When you open the solution in Visual Studio then don't forget to move the maps xml,Picts
-and Database to the bin/debug directory when you want to run the code.
+When you open the solution in Visual Studio 2008 then don't forget to move the maps 
+xml,Picts and Database to the bin/debug directory when you want to run the code.
 
 Reiniere.
 
